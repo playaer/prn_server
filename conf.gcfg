@@ -1,0 +1,4 @@
+; Comment line
+[connection]
+Port = /dev/ttyUSB0
+Baud = 19200
